@@ -1,0 +1,6 @@
+Project title: Find areas for an ethnic cousine
+
+If somebody is going to open a restorant with ethnic cousine, they should look for a location in areas, where many ethnic restorants exist (which means that there is enough demand), but no restorant of the cousine they are going to open.
+For example, I'm looking for a place for a new thai restorant. If I open it in area, where two other thai restorants exist, I risk to meet strong competition. If I open it on the city suburbs without other thai restorants nearby, my risk is low demand for such restorant. However, if I open it in a neighborhood with several chineese, indian etc. restorants, but no thai restorant, the chance of success will be higher.
+
+Therefore, my application will create a map of a city and mark all areas with more then N etnic restorants and no restorant of selected ethnic cousine.
