@@ -13,4 +13,5 @@ a neighborhood with several chineese, indian etc. restorants, but no thai
 restorant, the chance of success will be higher.
 
 Therefore, my application will create a map of a city and mark all areas 
-with more then N etnic restorants and no restorant of selected ethnic cousine.
+with more then N different etnic restorants but no restorant of selected 
+ethnic cousine.
