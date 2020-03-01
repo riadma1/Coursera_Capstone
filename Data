@@ -1,0 +1,9 @@
+I will use two sources of data:
+
+For areas, I use list of areas from Wikipedia. Here is, for example, London:
+https://en.wikipedia.org/wiki/List_of_areas_of_London
+It contains all areas with links to GeoHack service. Actually I don’t need the service. Instead I use the link itself to extract longitude and latitude from the URL.
+
+For the list of restorants, I will use Foursquare.
+Then I will create a list of all ethnic restorants types and filter venues of those types.
+Finally, I will have a variable, where I can set the type of resorant I'm going to open.
